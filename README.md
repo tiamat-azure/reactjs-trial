@@ -71,6 +71,8 @@ npm start
 
 [ReactJs Tutorial #2](https://www.youtube.com/watch?v=Ke90Tje7VS0)
 
+[ReactJs & REDUX Tutorial #3](teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+
 [Surge](https://surge.sh/)
 
 [Demo site](https://tailwindcss-trial.surge.sh/)
