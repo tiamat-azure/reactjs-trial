@@ -25,7 +25,7 @@ git clone https://github.com/tiamat-azure/reactjs-trial.git
 
 ## Procedure
 
-Install LTS version of [Node](https://nodejs.org/) with [NVM]([https://link](https://github.com/nvm-sh/nvm)) :
+Install LTS version of [Node](https://nodejs.org/) with [NVM](<[https://link](https://github.com/nvm-sh/nvm)>) :
 
 ```bash
 nvm ls-remote
@@ -65,6 +65,14 @@ cd memory
 npm start
 ```
 
+Install various libraries :
+
+```bash
+npm i --save lodash.shuffle
+
+npm i --save prop-types
+```
+
 ## Bibliography
 
 [ReactJs Tutorial #1](https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js)
@@ -77,4 +85,4 @@ npm start
 
 [Demo site](https://tailwindcss-trial.surge.sh/)
 
-[Codepen.io - ReactJS - JSX]([https://link](https://codepen.io/tiamat-azure/pen/JjXZEXe))
+[Codepen.io - ReactJS - JSX](<[https://link](https://codepen.io/tiamat-azure/pen/JjXZEXe)>)
