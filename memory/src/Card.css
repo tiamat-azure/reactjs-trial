@@ -13,10 +13,10 @@
 
 .memory > .card.justMatched,
 .memory > .card.justMismatched {
-  outline: 0.1em solid green;
+  outline: 0.08em solid green;
 }
 .memory > .card.justMismatched {
-  outline-color: red;
+  outline: 0.08em solid red;
 }
 
 .memory > .card.visible {
